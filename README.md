@@ -2,6 +2,9 @@
 
 This plugin allows students in a course to report errors. The plugin adds a button in the header of the module view page that can be configured to be displayed or not. Regardless of whether it is shown or not it adds an item to the navigation menu when in the module page view.
 
+## GitHub Repository ##
+https://github.com/fabianbatioja/local_issuesreporter
+
 ## Steps to test ##
 - Create a course
 - Create an activity within the course
